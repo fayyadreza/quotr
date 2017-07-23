@@ -1,2 +1,5 @@
 # quotr
-A simple prototype for a program that breaks down literature into specific quotes || Submission to InspireHacks 2017 - design hackathon
+Submission to InspireHacks 2017 || https://devpost.com/software/quotr-khay2d
+Built using Invision and Gravit.io
+
+Many resources used to find quotes are inadequate and not specific enough. We designed a tool that would allow students to find exact quotes for exact themes. 
